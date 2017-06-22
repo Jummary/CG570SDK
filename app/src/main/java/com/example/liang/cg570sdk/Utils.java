@@ -5,6 +5,8 @@ package com.example.liang.cg570sdk;
  */
 
 public class Utils {
-
+    String string = "sfbsakf" +
+            "lksfnsd" +
+            "lsadfsafsa";
 
 }
